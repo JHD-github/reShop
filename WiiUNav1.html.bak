@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>WiiUNav</title>
+    <meta name="author" content="elahh">
+    <meta name="generator" content="BlueGriffon wysiwyg editor">
+    <style type="text/css">
+html {
+  background-color: white;
+  background-image: url("file:///D:/Joseph/Documents/wiiu%20background.png");
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 50% 50%;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+:link {
+  color: #26ed17;
+}
+
+:link:active {
+  color: #528215;
+}
+
+:link:visited {
+  color: #85db74;
+}
+
+#font {
+  font-family: "Arial";
+  font-size: 0%;
+  display: grid;
+  float: left;
+}
+
+#font2 {
+  display: grid;
+  float: left;
+}
+
+#font3 {
+  display: grid;
+  float: left;
+}
+
+#font4 {
+  display: grid;
+  float: left;
+}
+
+#font5 {
+  display: grid;
+  float: left;
+}
+
+#it4 {
+  display: inline-grid;
+  float: none;
+}
+
+#it7 {
+  display: inline-grid;
+  float: none;
+}
+
+#it8 {
+  display: inline-grid;
+  float: none;
+}
+
+#it9 {
+  display: inline-grid;
+  float: none;
+}
+
+#tryhthy {
+  display: grid;
+  -webkit-grid-auto-flow: row;
+  grid-auto-flow: row;
+  vertical-align: 0%;
+}
+
+#fr {
+  -webkit-grid-auto-flow: column;
+  grid-auto-flow: column;
+}
+
+#frr {
+  text-align: right;
+}
+
+</style><link type="text/css" rel="stylesheet" href="locked">
+  </head>
+  <body style="      background-color: transparent; margin-left: 0px; margin-top: -1px; height: 470px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+      role="heading" id="top">&nbsp;&nbsp;&nbsp;&nbsp; <img src="file:///D:/Joseph/Picture/Buttons/Home/Enter%20download%20code.png"
+        position:="" fixed;="" #toplinks="" ul="" {="" background:transparent=""
+        none="" repeat="" scroll="" 0="" 0;="" border:medium="" none;="" color:#2f6fab;=""
+        cursor:default;="" line-height:1.4em;="" list-style-image:none;="" list-style-position:outside;=""
+        list-style-type:none;="" margin:0;="" padding:0="" 1em="" 1em;="" text-align:right;=""
+        z-index:0;="" font-size:="" 85%;="" position:fixed;="" right:0;="" }=""
+        alt="Enter Download Code" title="Enter Code Button" style="width: 191px; height: 55px;"
+        id="it8" role="heading"><img position:="" fixed;="" src="file:///D:/Joseph/Picture/Buttons/Home/charts.png"
+        alt="Charts" title="Charts Button" style="width: 177px; height: 55px;" id="it7"><img
+        src="file:///D:/Joseph/Picture/Buttons/Home/news.png" position:="" fixed;=""
+        alt="News" title="News Button" style="width: 180px; height: 55px;" id="it9"><img
+        src="file:///D:/Joseph/Picture/Buttons/Home/find.png" position:="" fixed;=""
+        alt="Find" title="Find Button" style="width: 197px; height: 55px;" id="it4"></a>
+    <div id="tryhthy" role="toolbar" aria-orientation="vertical" aria-dropeffect="none"><span
+        style="white-space: nowrap;"><strong><cite><a id="left"><abbr role="menubar"
+                id="ewdewj3df4f4"><acronym><img src="file:///D:/Joseph/Picture/Buttons/Home/Home.png"
+                    position:relative;="" alt="Home" title="Home Button" style="width: 93px; height: 84px;"
+                    id="font2" role="tab"></acronym></abbr></a></cite></strong></span>
+      <span style="white-space: nowrap;"><strong><cite><a><abbr><img src="file:///D:/Joseph/Picture/Buttons/Home/Search.png"
+                  alt="Search" title="Search Button" style="width: 93px; height: 80px;"
+                  id="font3"></abbr></a></cite></strong></span><span style="white-space: nowrap;"><strong><cite><a><abbr><img
+                  src="file:///D:/Joseph/Picture/Buttons/Home/Balance.png" alt="Balance"
+                  title="Balance Button" style="width: 93px; height: 84px;" 100px;=""
+                  height:="" 90px;"="" id="font4"></abbr></a></cite></strong></span>
+      <div style="text-align: left;"><strong style="white-space: nowrap;"><cite><a><abbr><acronym><img
+                    src="file:///D:/Joseph/Picture/Buttons/Home/My%20Menu.png" alt="My Menu"
+                    title="Menu Button" style="width: 93px; height: 84px;" id="font"></acronym></abbr></a></cite></strong><canvas></canvas><strong><cite></cite></strong></div>
+      <div style="text-align: left;"><strong><cite> </cite></strong></div>
+      <div style="text-align: left;"> </div>
+      <div style="text-align: left;"><strong><cite> </cite></strong></div>
+      <div style="text-align: left;"> </div>
+      <div style="text-align: left;"><strong><cite> </cite></strong></div>
+      <div style="text-align: left;"> </div>
+      <div style="text-align: left;"><strong><cite> </cite></strong></div>
+      <div style="text-align: left;"><span style="white-space: nowrap;"><strong><cite><a><abbr><acronym></acronym></abbr></a></cite></strong></span></div>
+    </div>
+    <div role="toolbar" aria-orientation="vertical" aria-dropeffect="none"><a href="#top"><span
+          style="white-space: nowrap;"><strong><cite></cite></strong></span></a><strong><a><abbr><br>
+          </abbr></a></strong>
+      <div style="text-align: center;">
+        <div style="text-align: left;"><br>
+          <a href="#top"><span style="white-space: nowrap;"><strong><cite></cite></strong></span></a><strong><a><abbr></abbr></a></strong></div>
+        <div style="text-align: left;"><strong><cite> </cite></strong></div>
+        <div style="text-align: left;"><a href="#top"><strong><a><abbr><img src="file:///D:/Joseph/Picture/Buttons/Home/Close.png"
+                    alt="Close" title="Close Button" style="width: 93px; height: 87px; margin-top: -41px;"
+                    id="font5"></abbr></a></strong></a></div>
+        <div style="text-align: left;"><strong> </strong></div>
+        <div style="text-align: right;"><a href="#top"><br>
+          </a></div>
+        <div style="text-align: right;"><a href="#top"><img position:="" fixed;=""
+              src="file:///D:/Joseph/Picture/Buttons/Home/top.png" alt="Top" title="Top Button"
+              style="width: 84px; height: 80px;" longdesc="#top" id="frr" role="banner"></a></div>
+      </div>
+    </div>
+    <div class="___7ztb050 f22iagw f122n59 f1ctqxl6 f1l02sjl f3swjwz f1g0x7ka fhxju0i f1qch9an f1cnd47f f1vx9l62"
+      data-tabster="{&quot;mover&quot;:{&quot;cyclic&quot;:true,&quot;direction&quot;:1,&quot;memorizeCurrent&quot;:true}}"><i
+        tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true" style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; top: 0px; left: 0px;"></i>
+      <div class="___zeg2ds0 f22iagw f122n59 fsuw20m f1vx9l62 f540s0x f1ja72i3"
+        role="navigation">
+        <div>
+          <div title="Home" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="Create" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="My Content" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="Feed" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="Apps" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="Go to your Outlook" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div>
+          <div title="Go to Teams" class="___77lcry0 f10pi13n" role="none"></div>
+        </div>
+        <div></div>
+      </div>
+      <i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true" style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; top: 0px; left: 0px;"></i></div>
+  </body>
+</html>

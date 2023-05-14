@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>WiiUNav</title>
+    <meta name="author" content="elahh">
+    <meta name="generator" content="BlueGriffon wysiwyg editor">
+    <style type="text/css">
+html {
+  background-color: white;
+  background-image: url("file:///D:/Joseph/Documents/wiiu%20background.png");
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 50% 50%;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+:link {
+  color: #26ed17;
+}
+
+:link:active {
+  color: #528215;
+}
+
+:link:visited {
+  color: #85db74;
+}
+
+#font {
+  font-family: "Arial";
+  font-size: 0%;
+  display: grid;
+  float: left;
+  vertical-align: top;
+}
+
+#font2 {
+  display: grid;
+  float: left;
+  vertical-align: top;
+}
+
+#font3 {
+  display: grid;
+  float: left;
+  vertical-align: top;
+}
+
+#font4 {
+  display: grid;
+  float: left;
+  vertical-align: top;
+}
+
+#font5 {
+  display: grid;
+  float: left;
+  vertical-align: top;
+}
+
+#it4 {
+  display: inline-grid;
+  float: none;
+}
+
+#it7 {
+  display: inline-grid;
+  float: none;
+}
+
+#it8 {
+  display: inline-grid;
+  float: none;
+}
+
+#it9 {
+  display: inline-grid;
+  float: none;
+}
+
+#tryhthy {
+  display: grid;
+  -webkit-grid-auto-flow: row;
+  grid-auto-flow: row;
+  vertical-align: 0%;
+  position: fixed;
+  clear: left;
+}
+
+#fr {
+  -webkit-grid-auto-flow: column;
+  grid-auto-flow: column;
+}
+
+#top {
+  position: static;
+}
+
+</style></head>
+  <body style="background-color: transparent; margin-left: 0px; margin-top: -1px; height: 583px; width: 854px;">&nbsp;
+    <div id="tryhthy">
+      <div style="text-align: center; width: 952px; height: 164px; margin-top: -21px;"><a
+          id="top"><img src="Pictures/Buttons/Home/Enter%20download%20code.png"
+            alt="Enter Download Code" title="Enter Code Button" style="width: 191px; height: 54px;"
+            id="it8"></a><a id="top"><img src="Pictures/Buttons/Home/charts.png"
+            alt="Charts" title="Charts Button" style="width: 168px; height: 53px;"
+            id="it7"></a><a id="top"><img src="Pictures/Buttons/Home/news.png" alt="News"
+            title="News Button" style="width: 161px; height: 53px;" id="it9"></a><a
+          id="top"><img src="Pictures/Buttons/Home/find.png" alt="Find" title="Find Button"
+            style="width: 194px; height: 53px;" id="it4"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+          id="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div style="text-align: center;"><img src="Pictures/Buttons/Home/Home.png"
+            alt="Home" title="Home Button" style="width: 93px; height: 87px; margin-top: -28px;"
+            id="font2"></div>
+        <div> </div>
+      </div>
+      <div> </div>
+      <div> </div>
+      <div style="text-align: left;"><img src="Pictures/Buttons/Home/My%20Menu.png"
+          alt="My Menu" title="Menu Button" style="width: 93px; height: 84px; margin-top: -58px;"
+          id="font"></div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div style="text-align: left;"><img src="Pictures/Buttons/Home/Balance.png"
+          alt="Balance" title="Balance Button" style="width: 93px; height: 84px;"
+          100px;="" height:="" 90px;"="" id="font4"></div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div style="text-align: left;"><img src="Pictures/Buttons/Home/Search.png"
+          alt="Search" title="Search Button" style="width: 93px; height: 80px;"
+          id="font3"></div>
+      <div> </div>
+      <div> </div>
+      <div> </div>
+      <div style="text-align: center;">
+        <div style="text-align: left;"><img src="Pictures/Buttons/Home/Close.png"
+            alt="Close" title="Close Button" style="width: 93px; height: 84px;"
+            id="font5"></div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div style="text-align: right;"><a href="#top" id="tothetop"><br>
+          </a></div>
+        <div style="text-align: right;"><a href="#top"><img src="Pictures/Buttons/Home/top.png"
+              alt="Top" title="Top Button" style="width: 84px; height: 80px; margin-left: -245px;"></a></div>
+      </div>
+    </div>
+    <h1> </h1>
+  </body>
+</html>
